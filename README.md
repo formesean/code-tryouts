@@ -17,11 +17,11 @@ Thank you for participating in the tryout. Please follow these instructions to f
 
    - After organizing your solutions, compress the folders into a single `.zip` file.
    - Name the zip file as follows: `<YourFamilyName>_<ProgrammingLanguage>.zip`
-   - Example: `Garcia_Python.zip`
+   - Example: `Aguilar_Python.zip`
 
 3. **Upload Your Submission**:
    - Submit the `.zip` file using the link provided below:
-     - [Submission Link](https://submission.example.com)
+     - [Submission Link](https://drive.google.com/drive/folders/1QpJJa9Ddl2t_1XSU3qzXY98Aumrd3GBW?usp=sharing)
 
 ## Checklist
 
